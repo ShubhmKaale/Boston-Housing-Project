@@ -27,3 +27,6 @@ in Boston. Model is trained with the past data so that it can predict the future
 So our aim in this project is to find the features on which the Boston housing price depends.
 Then using those features we are going to train the model so that in future, using those feature we can predict the price in Boston. 
 Before that, we must to preprocess the data and remove the outliers from the data but data we have taken does not need to be preprocessed.
+
+
+Note:- More info about data and its source is in housing.txt
