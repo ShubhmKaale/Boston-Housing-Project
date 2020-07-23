@@ -1,5 +1,5 @@
 # Boston-Housing-Project
-Linear Regression Project
+Linear nad polynomial  Regression  Project
 
 This is Boston's house price predicting project, where we are going to build the model to predict the value of houses
 in Boston. Model is trained with the past data so that it can predict the future price, just by entering the specific parameters. Which would be helpful for a real estate agent.
@@ -25,8 +25,6 @@ in Boston. Model is trained with the past data so that it can predict the future
     
     
 So our aim in this project is to find the features on which the Boston housing price depends.
-Then using those features we are going to train the model so that in future, using those feature we can predict the price in Boston. 
-Before that, we must to preprocess the data and remove the outliers from the data but data we have taken does not need to be preprocessed.
-
+Then using those features we are going to train the model. we will apply Linear regression and polynomial regression.
 
 Note:- More info about data and its source is in housing.txt
